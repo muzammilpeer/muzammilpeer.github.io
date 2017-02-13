@@ -47,7 +47,7 @@
             <div class="container">
                 <div class="row">
                     <div class="col-lg-12">
-                        Copyright &copy; muzammilpeer.me 2015 by <a href="http://startbootstrap.com">Start Bootstrap</a>
+                        Copyright &copy; muzammilpeer.com 2017 by <a href="http://startbootstrap.com">Start Bootstrap</a>
                     </div>
                 </div>
             </div>

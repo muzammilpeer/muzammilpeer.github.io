@@ -93,7 +93,7 @@ Have very good problem solving and programming skills.
                 
                 </div>
                 <div class="col-lg-8 col-lg-offset-2 text-center">
-                    <a href="muzammilpeer_resume.pdf" class="btn btn-lg btn-outline">
+                    <a href="muzammilpeer_cv.pdf" class="btn btn-lg btn-outline">
                         <i class="fa fa-download"></i> Download Resume
                     </a>
                 </div>

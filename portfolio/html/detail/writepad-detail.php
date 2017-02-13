@@ -107,7 +107,7 @@
 						<h4>Platforms Targeted</h4>
                         <ul  class="list-inline">
                         <li>
-                            <a href="https://itunes.apple.com/us/app/letsgoout/id483119735?mt=8" class="btn-social btn-outline" style="border-color:#000000"> <i class="fa fa-fw fa-apple" style="color:#000000"></i></a>
+                            <a href="https://itunes.apple.com/qa/app/write-draw-notes-taker-sketchbook/id517834882?mt=8" class="btn-social btn-outline" style="border-color:#000000"> <i class="fa fa-fw fa-apple" style="color:#000000"></i></a>
                         </li>
 							</ul>
 						</div>
